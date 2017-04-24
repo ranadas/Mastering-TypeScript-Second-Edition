@@ -1,3 +1,5 @@
+### rdas  - Sliming it down. Too many Files.
+
 #Mastering TypeScript - Second Edition
 This is the code repository for [Mastering TypeScript - Second Edition](https://www.packtpub.com/application-development/mastering-typescript-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786468710), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
