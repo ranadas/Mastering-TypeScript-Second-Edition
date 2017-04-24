@@ -3,6 +3,21 @@
         "module": "commonjs",
         "target": "es5",
         "noImplicitAny": false,
-        "sourceMap": false
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "noEmitHelpers": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "lib": [ "es2015",  "dom" ]
+    },
+    "exclude": [
+        "node_modules/@typings",
+        "node_modules/*",
+        "references_project/*"
+    ],
+    "awesomeTypescriptLoaderOptions": {
+        "forkChecker": true,
+        "useWebpackText": true
     }
 }
